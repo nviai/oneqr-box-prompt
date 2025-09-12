@@ -1,0 +1,54 @@
+{
+    "anime": [
+        {
+            "id": 1,
+            "prompt": "1girl, japanese kimono, sakura blossoms, kyoto street, safe, casual, solo, looking at viewer, outdoors, gentle smile, holding paper umbrella, falling petals, traditional houses, dusk, masterpiece, high score, great score, absurdres",
+            "description": "Một cô gái mặc kimono truyền thống Nhật Bản đứng giữa con phố cổ Kyoto, xung quanh là hoa anh đào rơi trong hoàng hôn."
+        },
+        {
+            "id": 2,
+            "prompt": "1boy, medieval knight armor, european castle, safe, heroic pose, solo, looking into distance, outdoors, determined expression, holding sword, stone walls, banners waving, cloudy sky, epic atmosphere, masterpiece, high score, great score, absurdres",
+            "description": "Một hiệp sĩ châu Âu mặc giáp thời Trung Cổ, đứng hiên ngang trên tường thành, tay cầm kiếm, phía sau là lâu đài cổ với cờ bay trong gió."
+        },
+        {
+            "id": 3,
+            "prompt": "1girl, cyberpunk outfit, neon city, futuristic asia, safe, solo, looking at viewer, confident smile, neon lights, holograms, rainy streets, holding umbrella, skyscrapers, masterpiece, high score, great score, absurdres",
+            "description": "Một cô gái trong trang phục cyberpunk giữa thành phố tương lai đầy ánh neon, mưa nhẹ rơi và ánh đèn phản chiếu trên mặt đường."
+        },
+        {
+            "id": 4,
+            "prompt": "1girl, hanbok, korean palace garden, safe, casual, solo, looking at viewer, shy smile, lotus pond, stone bridge, cherry blossoms, traditional pavilion, sunny day, masterpiece, high score, great score, absurdres",
+            "description": "Một thiếu nữ Hàn Quốc mặc hanbok đang dạo bước trong vườn cung điện, bên cạnh hồ sen và hoa anh đào nở rộ."
+        },
+        {
+            "id": 5,
+            "prompt": "1boy, astronaut suit, mars colony, sci-fi, safe, solo, looking at viewer, serious face, red desert, futuristic domes, rovers, dusty sky, exploring stance, masterpiece, high score, great score, absurdres",
+            "description": "Một phi hành gia trong bộ đồ không gian, đứng trên bề mặt sao Hỏa, phía sau là khu định cư và xe thám hiểm."
+        },
+        {
+            "id": 6,
+            "prompt": "1girl, fantasy elf, enchanted forest, safe, solo, looking at viewer, serene smile, long ears, glowing fireflies, ancient trees, magical aura, moonlight, masterpiece, high score, great score, absurdres",
+            "description": "Một nữ elf trong khu rừng huyền bí, ánh trăng chiếu xuống, xung quanh có đom đóm phát sáng tạo nên không khí ma thuật."
+        },
+        {
+            "id": 7,
+            "prompt": "1girl, victorian dress, london street, safe, solo, looking at viewer, elegant smile, cobblestone road, gas lamps, horse carriage, foggy night, historical vibe, masterpiece, high score, great score, absurdres",
+            "description": "Một quý cô mặc váy thời Victoria đang đi bộ trên con phố London cổ, ánh đèn dầu soi sáng giữa màn sương mờ."
+        },
+        {
+            "id": 8,
+            "prompt": "1boy, samurai armor, japanese village, edo period, safe, solo, looking at viewer, serious gaze, katana at side, wooden houses, mountains, mist, dawn light, masterpiece, high score, great score, absurdres",
+            "description": "Một samurai trong giáp truyền thống Nhật Bản, tay đặt lên thanh katana, đứng ở làng cổ Edo trong buổi sớm mù sương."
+        },
+        {
+            "id": 9,
+            "prompt": "1girl, desert traveler, arabian outfit, middle east, safe, solo, looking at viewer, determined face, sand dunes, camel in background, ruined temple, sunset sky, masterpiece, high score, great score, absurdres",
+            "description": "Một nữ lữ khách mặc trang phục Ả Rập, đi qua sa mạc rộng lớn, phía xa có đền cổ đổ nát và hoàng hôn rực rỡ."
+        },
+        {
+            "id": 10,
+            "prompt": "1girl, traditional indian sari, taj mahal, safe, solo, looking at viewer, soft smile, holding flower, marble courtyard, sunset glow, river reflection, masterpiece, high score, great score, absurdres",
+            "description": "Một cô gái mặc sari truyền thống Ấn Độ, đứng trong khuôn viên Taj Mahal vào lúc hoàng hôn, ánh sáng vàng cam phản chiếu trên sông."
+        }
+    ]
+}
