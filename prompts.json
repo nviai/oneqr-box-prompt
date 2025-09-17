@@ -1,5 +1,5 @@
 {
-    "anime": [
+    "Anime": [
         {
             "id": 1,
             "prompt": "1girl, japanese kimono, sakura blossoms, kyoto street, safe, casual, solo, looking at viewer, outdoors, gentle smile, holding paper umbrella, falling petals, traditional houses, dusk, masterpiece, high score, great score, absurdres",
@@ -51,4 +51,5 @@
             "description": "Một cô gái mặc sari truyền thống Ấn Độ, đứng trong khuôn viên Taj Mahal vào lúc hoàng hôn, ánh sáng vàng cam phản chiếu trên sông."
         }
     ]
+
 }
